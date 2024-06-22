@@ -1,4 +1,4 @@
-# Portfolio📁
+# Portfolio✨
 A website which showcases all the skillset and achievement, that I have made so far. It includes all the tech stack that was used by me so far.
 ![image](https://github.com/aindrelasaha/Aindrela_Saha_Portfolio/assets/126545390/00d625d7-84be-4423-a50c-76f8e1bdc296)
 
